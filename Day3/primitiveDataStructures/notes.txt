@@ -1,0 +1,23 @@
+Arrays
+
+- Fixed in size 
+- Fast for data retrivals:
+  Time complexity O(n);
+- Compact memory usage if size is known
+  Have to resize the entire array.
+- Delete operation very hard 
+- 2D Arrays
+
+List 
+
+- An ordered collection aka sequence
+- Allow duplicates
+- Not Fixed in size like arrays
+- Fast for data retrivals
+- Various implementations
+  - ArrayList
+  - Stack
+  - Vector
+  - Others
+
+
